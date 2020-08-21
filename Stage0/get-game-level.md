@@ -1,4 +1,4 @@
-# get-game-Level
+# get-game-level
 
 ## Feature
 
