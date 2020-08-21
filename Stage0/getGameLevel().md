@@ -6,7 +6,7 @@ Accept the game level from the player
 
 ## Acceptance Criteria
 
-### Scenario:
+### Scenario
 
   Given player is game level selection page after entering
 player name
