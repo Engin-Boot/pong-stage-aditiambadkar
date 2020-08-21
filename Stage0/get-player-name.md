@@ -1,4 +1,4 @@
-# player-Name
+# get-player-name
 
 ## Feature
 
