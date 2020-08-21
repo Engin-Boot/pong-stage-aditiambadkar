@@ -1,4 +1,4 @@
-# playerName()
+# player-Name
 
 ## Feature
 
@@ -8,7 +8,7 @@ Accept player name from the user
 
 ### Scenario: -describe-a-scenario-of-this-module
 
-  Given player launches the pong game application and is on the
+  Given player launches the Pong game application and is on the
 main page which has "Start" button
 
   When player clicks on "Start" button
