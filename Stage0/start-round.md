@@ -17,7 +17,6 @@ computer player and game begins
 
 ### Scenario: New round of game starts
 
-
   Given player selects the game level and player is at game arena page
 
   When player is at game arena page
