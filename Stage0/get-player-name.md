@@ -6,7 +6,7 @@ Accept player name from the user
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario
 
   Given player launches the Pong game application and is on the
 main page which has "Start" button
