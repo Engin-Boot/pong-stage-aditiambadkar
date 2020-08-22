@@ -1,0 +1,15 @@
+# computer-move
+
+## Feature
+
+Indicates computer move
+
+## Acceptance Criteria
+
+### Scenario
+
+  Given game in progress and player plays move
+
+  When pong ball comes towards computer paddle
+
+  Then computer paddle hits or misses the pong ball
