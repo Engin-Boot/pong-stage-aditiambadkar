@@ -1,0 +1,25 @@
+# increase-score
+
+## Feature
+
+Increases the computer or player score
+
+## Acceptance Criteria
+
+### Scenario: Player misses the pong ball
+
+  Given game in progress and computer move is successful
+player plays next move
+
+  When player plays moves and paddle misses pong ball
+
+  Then computer score increase by 1
+
+### Scenario: Computer misses pong ball
+
+  Given game in progress and player move is successful
+computer plays next move
+
+  When computer plays moves and paddle misses pong ball
+
+  Then computer score increase by 1
