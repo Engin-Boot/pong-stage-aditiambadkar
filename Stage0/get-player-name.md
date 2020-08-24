@@ -13,4 +13,4 @@ main page which has "Start" button
 
   When player clicks on "Start" button
 
-  Then text box appears in which user types player name
+  Then pop up text box appears in which user types player name
