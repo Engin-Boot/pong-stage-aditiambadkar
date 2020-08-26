@@ -25,7 +25,6 @@ When player is ready to start new round
 Then player clicks on the pong ball with the paddle and ball goes towards
 computer player and game round begins
 
-
 ### Scenario 3: Computer misses pong ball and starts new round
 
 Given computer misses pong ball and player is on game arena page
