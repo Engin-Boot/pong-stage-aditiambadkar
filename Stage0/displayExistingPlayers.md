@@ -6,7 +6,7 @@ Displays existing player profiles
 
 ## Acceptance Criteria
 
-### Scenario
+### Scenario 1
 
 Given player launches the Pong game application and
 is on the main menu page which has "Existing Player" option
@@ -17,7 +17,7 @@ When player clicks on "Existing Player" option
 Then page displays "No Existing Players" message and
 prompts player to go back to Main Menu
 
-### Scenario
+Scenario 2
 
 Given player launches the Pong game application and
 is on the main menu page which has "Existing Player" option
