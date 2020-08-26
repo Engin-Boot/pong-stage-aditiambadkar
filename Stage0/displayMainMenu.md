@@ -1,8 +1,8 @@
-# launch-Pong-Game
+# display-Main-Menu
 
 ## Feature
 
-launches the Pong game and displays the main menu
+Displays the main menu
 
 ## Acceptance Criteria
 
