@@ -1,4 +1,4 @@
-# declare-winner
+# declare-Winner
 
 ## Feature
 
@@ -8,7 +8,7 @@ Declare the player or computer as the winner
 
 ### Scenario: Player score equals to 11
 
-  Given game in progress and computer misses pong ball
+  Given computer misses pong ball
 and player score increases
 
   When player score equals to 11
@@ -17,7 +17,7 @@ and player score increases
 
 ### Scenario: Computer score equals to 11
 
-  Given game in progress and player misses pong ball
+  Given player misses pong ball
 and computer score increases
 
   When computer score equals to 11
