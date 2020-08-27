@@ -1,4 +1,4 @@
-# checkScore
+# check-Score
 
 ## Feature
 
