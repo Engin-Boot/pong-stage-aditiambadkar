@@ -6,7 +6,7 @@ Declare the player or computer as the winner
 
 ## Acceptance Criteria
 
-### Scenario: Player score equals to 11
+### Scenario 1: Player score equals to 11
 
   Given computer misses pong ball
 and player score increases
@@ -15,7 +15,7 @@ and player score increases
 
   Then declare player as winner and end pong game
 
-### Scenario: Computer score equals to 11
+### Scenario 2: Computer score equals to 11
 
   Given player misses pong ball
 and computer score increases
