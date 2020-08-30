@@ -8,7 +8,7 @@ the game.
 "New Player" and "Existing Player".
 3. a. If the player clicks on "New Player" option from the main menu, create-New-Player
 diaplays a pop up text box and player types his or her name.
-3. b.a. If the player clicks on "Existing Player" option from the main menu and no
+3. b. a. If the player clicks on "Existing Player" option from the main menu and no
 existing players are available, display-Existing-Players displays "No Existing Players"
 message and prompts player to go back to main menu.
 3. b. b. If the player clicks on "Existing Player" option from the main menu and one or
