@@ -62,6 +62,7 @@ declare-Winner declares computer as winner and game ends. If no,
 player plays next move.
 
 ## Player wins
+
 1. Player scores 11 before computer and declare-Winner declares player
 as winner and add-Coins adds 50 game coins to player account.
 2. The lucky-Draw-Cards displays 3 cards which mention random coin amounts
