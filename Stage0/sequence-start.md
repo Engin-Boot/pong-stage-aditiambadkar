@@ -14,9 +14,11 @@ and no existing players are available, display-Existing-Players displays
 If the player clicks on "Existing Player" option from the main menu
 and one or more existing players are available, display-Existing-Players displays
 icons of all existing players and player clicks one of them.
-4. After player selection get-Game-Level displays 3 game level options
-"Easy", "Medium" and "Hard".
-5. If the player clicks on "Easy" option, the pong ball direction randomness
+4. After player selection the display-Player-Menu displays "Store", "Start Game"
+"Profile Details" and "Player Items" options. Player clicks on "Start Game" option
+start-New-Game-Player-Computer initiates new game.
+5. The get-Game-Level displays 3 game level options "Easy", "Medium" and "Hard".
+If the player clicks on "Easy" option, the pong ball direction randomness
 is set to 50% which increases by 10% after subsequent player point and pong ball
 speed is set to 1 which increases by 1 after subsequent player point.
 If the player clicks on "Medium" option, the pong ball direction randomness
@@ -58,3 +60,12 @@ and computer misses pong ball and increase-Score increases player points.
 The check-Score checks if computer score is equal to 11. If yes, then
 declare-Winner declares computer as winner and game ends. If no,
 player plays next move.
+
+## Player wins
+1. Player scores 11 before computer and declare-Winner declares player
+as winner and add-Coins adds 50 game coins to player account.
+2. The lucky-Draw-Cards displays 3 cards which mention random coin amounts
+(10, 20, 50, 100, 500, 1000) out of these. The amounts are not visible to
+player until selection of single card.
+3. Player clicks on 1 of the 3 cards and the corresponding card discloses.
+4. The add-Coins adds corresponding game coins to player account.
