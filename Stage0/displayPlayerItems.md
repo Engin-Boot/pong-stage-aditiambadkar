@@ -6,7 +6,7 @@ Displays the items that player owns
 
 ## Acceptance Criteria
 
-### Scenario 1 : Player owns atleast one item
+### Scenario 1 : Player owns at least one item
 
 Given player is on player menu
 
