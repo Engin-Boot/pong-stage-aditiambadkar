@@ -16,7 +16,7 @@ and one or more existing players are available, display-Existing-Players display
 icons of all existing players and player clicks one of them.
 4. After player selection the display-Player-Menu displays "Store", "Start Game"
 "Profile Details" and "Player Items" options. Player clicks on "Start Game" option
-start-New-Game-Player-Computer initiates new game.
+start-New-Game-Computer-Player initiates new game.
 5. The get-Game-Level displays 3 game level options "Easy", "Medium" and "Hard".
 If the player clicks on "Easy" option, the pong ball direction randomness
 is set to 50% which increases by 10% after subsequent player point and pong ball
